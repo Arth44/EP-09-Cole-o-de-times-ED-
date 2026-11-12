@@ -1,6 +1,6 @@
 # EP 09 — Coleção de times
 
-**Disciplina:** Estruturas de Dados — Instituto Federal do Espírito Santo (Ifes)  
+**Disciplina:** Estruturas de Dados — Instituto Federal do Espírito Santo (IFES)  
 **Módulo:** Vetores dinâmicos  
 
 ## Cenário
